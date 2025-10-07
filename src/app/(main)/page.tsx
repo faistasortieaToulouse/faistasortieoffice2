@@ -298,7 +298,6 @@ if (DISCORD_TOKEN) {
                     {/* <DiscordPolls polls={discordPolls} /> */}
                 </div>
             </section>
-            {/* ------------------------------------- */}
         </div>
     );
 }
